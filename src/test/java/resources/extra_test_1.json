@@ -1,0 +1,46 @@
+{
+  "firstName": "John",
+  "lastName": "doe",
+  "executiveSummary": "Below, you will find a proposal, etc. etc.",
+  "products": [
+    {
+      "name": "test product",
+      "quantity": 5,
+      "price": 10,
+      "total": 50
+    },
+    {
+      "name": "Creative Name",
+      "quantity": 10,
+      "price": 20,
+      "total": 200
+    },
+    {
+      "name": "Other",
+      "quantity": 100,
+      "price": 200,
+      "total": 2000
+    }
+  ],
+  "additional":[
+    {
+      "name": "Arbitrary Name",
+      "value": "Additional Value"
+    },
+    {
+      "name": "Other Arbitrary Name",
+      "value": "Really Long Value Here, Anything goes."
+    }
+  ],
+  "terms":[
+    {
+      "text": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Donec eu finibus massa. Ut et purus odio. Donec pellentesque, urna quis molestie bibendum, nibh tortor dapibus leo, sit amet tincidunt mauris mi eu quam."
+    },
+    {
+      "text": "Etiam id felis a velit egestas aliquam at vel est. In quis tristique lacus. Vestibulum sit amet nisi nisi. Proin a mauris pellentesque, condimentum ex ut, euismod orci."
+    },
+    {
+      "text": "Quisque laoreet tincidunt velit, sit amet placerat mi suscipit ac. Ut laoreet et nibh id mattis. Cras sed felis malesueda, facilisis libero in, dapidus felis. Nunc sit amet egastas velit. Integer id mollis nisi."
+    }
+  ]
+}
